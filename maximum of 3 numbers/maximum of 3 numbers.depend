@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608610148 source:c:\users\mac\documents\programs\c programs\maximum of 3 numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+
